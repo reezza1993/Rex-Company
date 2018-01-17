@@ -37,4 +37,4 @@ screen ./Autolaunch
 
 ▪️Edited By : @RexProgs 
 
-▪️Special Thanks From : @MaTaDoRTeam
+▪️Special Thanks From : @MaTaDoRTeam & @CernerCompany
