@@ -1,9 +1,9 @@
 # Rex-Company
 با سلام خدمت دوستان 
 
-#سورس رکس کمپانی تکمیل شد.
+# سورس رکس کمپانی تکمیل شد.
 
-#آموزش نصب :
+# آموزش نصب :
 
 # ابتدا پیش نیاز ها رو نصب میکنیم:
 ```sh
@@ -41,10 +41,10 @@ screen ./Autolaunch
 
  5. سپس بعد از لانچ شدن ربات api با اکانت cli استارت کنید
  
-#▪️Channel : @RexCompany
+# ▪️Channel : @RexCompany
 
-#▪️Edited By : @RexProgs 
+# ▪️Edited By : @RexProgs 
 
-#▪️Special Thanks From : @MaTaDoRTeam & @CernerCompany
+# ▪️Special Thanks From : @MaTaDoRTeam & @CernerCompany
 
-#Good Luck :)
+# Good Luck :)
