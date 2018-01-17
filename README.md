@@ -38,7 +38,6 @@ chmod +x Rex
 
  4. یه بار از سرور خارج شید وارد شید ربات لانچ کنید. 
   ```sh 
-
 cd Rex-Company 
 
 screen ./Autolaunch
@@ -46,10 +45,10 @@ screen ./Autolaunch
 
  5. سپس بعد از لانچ شدن ربات api با اکانت cli استارت کنید
  
-# ▪️Channel : @RexCompany
+▪️Channel: [@RexCompany](https://telegram.me/RexCompany)
 
-# ▪️Edited By : @RexProgs 
+▪️Edited By : [@Rex Developer](https://telegram.me/RexDeveloper)
 
-# ▪️Special Thanks From : @MaTaDoRTeam & @CernerCompany
+▪️Special Thanks From : [@MaTaDoR Team](https://telegram.me/MaTaDoRTeam) & [@CernerCompany](https://telegram.me/CernerCompany)
 
 # Good Luck :)
