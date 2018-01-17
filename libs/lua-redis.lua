@@ -890,7 +890,7 @@ redis_td_bot =[[
 
 `▪️ ویرایش شده توسط  :`
 
-( @RexProgs & @MajhoIBoy )
+( @RexProgs & @RexCompany )
 
 `▪️ با تشکر فراوان  :`
 
