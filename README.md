@@ -47,7 +47,7 @@ screen ./Autolaunch
  
 ▪️Channel: [@RexCompany](https://telegram.me/RexCompany)
 
-▪️Edited By : [@Rex Developer](https://telegram.me/RexDeveloper)
+▪️Edited By : [@Rex Developer](https://telegram.me/Rex_Developer)
 
 ▪️Special Thanks From : [@MaTaDoR Team](https://telegram.me/MaTaDoRTeam) & [@CernerCompany](https://telegram.me/CernerCompany)
 
