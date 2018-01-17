@@ -13,13 +13,16 @@
 
  1.ابتدا سورس را با دستور زیر کلون کنید.
  
+ ```sh
 git clone https://github.com/Rex-Company/Rex-Company
+ ```
  
  2. وارد مسیر‌ زیر میشوید و اطلاعات خواسته شده را پر میکنید .
- 
+ ```sh 
 Rex-Company/Config.lua
-
+```
  3. کد های زیر را وارد سرور میکنید.
+ ```sh 
  
 cd Rex-Company
 
@@ -30,14 +33,16 @@ chmod +x Rex
 ./Rex config
 
 ./Rex login
-
+```
 بعد از شما شما میگیره وارد میکنید ...
 
  4. یه بار از سرور خارج شید وارد شید ربات لانچ کنید. 
- 
+  ```sh 
+
 cd Rex-Company 
 
 screen ./Autolaunch
+```
 
  5. سپس بعد از لانچ شدن ربات api با اکانت cli استارت کنید
  
