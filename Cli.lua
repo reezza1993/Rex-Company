@@ -3221,7 +3221,7 @@ sendText(msg.chat_id, msg.id, '`▪️ Lᴏᴄᴋ Lɪɴᴋ Hᴀs Bᴇᴇɴ Eɴ�
 redis:set('Lock:Link'..msg.chat_id,true)
 end
 end
-if matches == 'unlock link' or matches == 'بازکردن لینک' then
+if matches == 'بازکردن لینک' then
 if redis:get('Lock:Link'..msg.chat_id) then
 sendText(msg.chat_id, msg.id, '`▪️ قفل لینک غیرفعال شد.`' , 'md')
 redis:del('Lock:Link'..msg.chat_id)
