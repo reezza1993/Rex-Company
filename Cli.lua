@@ -1424,7 +1424,7 @@ local text = [[
 
 ]]..check_markdown(PvUserSudo)..[[
 
-@RexCompany
+@phoenixss1_bot
 ]]
 sendText(msg.chat_id, msg.id, text,'md')
 elseif matches:match('(.*)') and not is_sudo(msg) then
@@ -1466,10 +1466,10 @@ redis:setex("ExpireData:"..msg.chat_id,day,true)
 end 
  redis:sadd("group:",msg.chat_id)
 if redis:get('CheckBot:'..msg.chat_id) then
-local text = '`▪️ گروه '..Company.title..' از قبل در لیست گروه های مدیریتی وجود دارد.`\n\n▪️ @RexCompany'
+local text = '`▪️ گروه '..Company.title..' از قبل در لیست گروه های مدیریتی وجود دارد.`\n\n▪️ @phoenixss1_bot'
  sendText(msg.chat_id, msg.id,text,'md')
 else
-local text = '`▪️ گروه  '..Company.title..'  به لیست گروه های مدیریتی اضافه شد.`\n\n @RexCompany'
+local text = '`▪️ گروه  '..Company.title..'  به لیست گروه های مدیریتی اضافه شد.`\n\n @phoenixss1_bot'
 local Hash = 'StatsGpByName'..msg.chat_id
 local ChatTitle = Company.title
 redis:set(Hash,ChatTitle)
@@ -1504,10 +1504,10 @@ redis:setex("ExpireData:"..msg.chat_id,day,true)
 end 
  redis:sadd("group:",msg.chat_id)
 if redis:get('CheckBot:'..msg.chat_id) then
-local text = '`▪️ ɢʀᴏᴜᴘ '..Company.title..' Is Aʟʀᴇᴀᴅʏ Aᴅᴅᴇᴅ ᴛᴏ Mᴀɴᴀɢᴇᴍᴇɴᴛ ʟɪsᴛ. `\n\n @RexCompany'
+local text = '`▪️ ɢʀᴏᴜᴘ '..Company.title..' Is Aʟʀᴇᴀᴅʏ Aᴅᴅᴇᴅ ᴛᴏ Mᴀɴᴀɢᴇᴍᴇɴᴛ ʟɪsᴛ. `\n\n @phoenixss1_bot'
  sendText(msg.chat_id, msg.id,text,'md')
 else
-local text = '`▪️ ɢʀᴏᴜᴘ '..Company.title..' Aᴅᴅᴇᴅ ᴛᴏ Mᴀɴᴀɢᴇᴍᴇɴᴛ ʟɪsᴛ. `\n\n @RexCompany'
+local text = '`▪️ ɢʀᴏᴜᴘ '..Company.title..' Aᴅᴅᴇᴅ ᴛᴏ Mᴀɴᴀɢᴇᴍᴇɴᴛ ʟɪsᴛ. `\n\n @phoenixss1_bot'
 local Hash = 'StatsGpByName'..msg.chat_id
 local ChatTitle = Company.title
 redis:set(Hash,ChatTitle)
@@ -2048,7 +2048,7 @@ local c = result.members
 for i=0 , #c do
 redis:sadd('ModList:'..msg.chat_id,c[i].user_id)
 end
-sendText(msg.chat_id,msg.id,"`▪️ تمام مدیران گروه به رسمیت شناخته شدند.`\n\n▪️ @RexCompany", "md")
+sendText(msg.chat_id,msg.id,"`▪️ تمام مدیران گروه به رسمیت شناخته شدند.`\n\n▪️ @phoenixss1_bot", "md")
 end
 getChannelMembers(msg.chat_id,'Administrators',0,limit,GetMod)
 end
@@ -2061,18 +2061,18 @@ local c = result.members
 for i=0 , #c do
 redis:sadd('ModList:'..msg.chat_id,c[i].user_id)
 end
-sendText(msg.chat_id,msg.id,"`▪️ Aʟʟ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇʀs ᴡᴇʀᴇ ʀᴇᴄᴏɢɴɪᴢᴇᴅ.`\n\n▪️ @RexCompany", "md")
+sendText(msg.chat_id,msg.id,"`▪️ Aʟʟ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇʀs ᴡᴇʀᴇ ʀᴇᴄᴏɢɴɪᴢᴇᴅ.`\n\n▪️ @phoenixss1_bot", "md")
 end
 getChannelMembers(msg.chat_id,'Administrators',0,limit,GetMod)
 end
 if is_Owner(msg) then
 if matches == 'راهنما' or matches == 'help' then
-sendText(msg.chat_id,msg.id,'`help bot in this channel:` https://t.me/RexCompanyHelp','md')
+sendText(msg.chat_id,msg.id,'`help bot in this channel:` https://t.me/phoenixss1_bot','md')
 end
 end
 if is_Owner or is_member or is_mod (msg) then
 if matches == 'creator' or matches == 'سازنده' then
-sendText(msg.chat_id,msg.id,'`▪️ ویرایش شده توسط   :`\n( @RexProgs & @MajhoIBoy )\n\n`▪️ کانال تیم ما  :` @RexCompany','md')
+sendText(msg.chat_id,msg.id,'`▪️ ویرایش شده توسط   :`\n( @phoenixss1_bot & @phoenixss1_bot )\n\n`▪️ کانال تیم ما  :` @phoenixss1_bot','md')
 end
 end
 if matches == 'modlist' or matches == 'لیست مدیران' then

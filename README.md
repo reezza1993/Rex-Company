@@ -1,4 +1,4 @@
-# Rex-Company
+# @phoenixss1_bot
 با سلام خدمت دوستان 
 
  سورس رکس کمپانی تکمیل شد.
@@ -45,10 +45,10 @@ screen ./Autolaunch
 
  5. سپس بعد از لانچ شدن ربات api با اکانت cli استارت کنید
  
-▪️Channel: [@RexCompany](https://telegram.me/RexCompany)
+▪️Channel: [@phoenixss1_bot](https://telegram.me/RexCompany)
 
-▪️Edited By : [@Rex Developer](https://telegram.me/Rex_Developer)
+▪️Edited By : [@phoenixss1_bot](https://telegram.me/Rex_Developer)
 
-▪️Special Thanks From : [@MaTaDoR Team](https://telegram.me/MaTaDoRTeam) & [@CernerCompany](https://telegram.me/CernerCompany)
+▪️Special Thanks From : [@phoenixss1_bot](https://telegram.me/MaTaDoRTeam) & [@phoenixss1_bot](https://telegram.me/CernerCompany)
 
 # Good Luck :)
