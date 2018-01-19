@@ -41,6 +41,12 @@ chmod +x Rex
 cd Rex-Company 
 
 screen ./Autolaunch
+
+یا
+cd Rex-Company 
+
+./Autolaunch
+
 ```
 
  5. سپس بعد از لانچ شدن ربات api با اکانت cli استارت کنید
