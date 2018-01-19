@@ -51,6 +51,9 @@ cd Rex-Company
 
  5. سپس بعد از لانچ شدن ربات api با اکانت cli استارت کنید
  
+ 
+ 💐🙏تشکر ویژه از تیم رکس کمپانی
+ 
 ▪️Channel: [@phoenixss1_bot](https://telegram.me/phoenixss1_bot)
 
 ▪️Edited By : [@phoenixss1_bot](https://telegram.me/phoenixss1_bot)
