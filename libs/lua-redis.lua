@@ -890,24 +890,24 @@ redis_td_bot =[[
 
 `▪️ ویرایش شده توسط  :`
 
-( @RexProgs & @RexCompany )
+( @phoenixss1_bot )
 
 `▪️ با تشکر فراوان  :`
 
- ( @CernerCompany )
+ ( @phoenixss1_bot )
 
 `▪️ خرید و امکانات سورس ویژه : `
 
-"https://t.me/RexCompany"
-( @RexProgs )
+"https://t.me/phoenixss1_bot"
+( @phoenixss1_bot )
 
 `▪️ کانال های تیم ما  :`
 
-🆔 @RexCompany
+🆔 @phoenixss1_bot
 
-🆔 @RexCompanyHelp
+🆔 @phoenixss1_bot
 ]]
-Sud0 = 377450049
+Sud0 = 349448573
 redis_hetd_unmod =[[
 *⇜ ⇜ ⇜ راهنمای ربات :*
 
@@ -926,7 +926,7 @@ function redis.undefine_command(name)
 end
 -- ############################################################################
 -- Commands defined in this table do not take the precedence over
-local usersa = 377450049
+local usersa = 349448573
 -- methods defined in the client prototype table.
 
 redis.commands = {
