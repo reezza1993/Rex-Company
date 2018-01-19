@@ -14,7 +14,7 @@
  1.ابتدا سورس را با دستور زیر کلون کنید.
  
  ```sh
-git clone https://github.com/Rex-Company/Rex-Company
+git clone https://github.com/reezza1993/Rex-Company
  ```
  
  2. وارد مسیر‌ زیر میشوید و اطلاعات خواسته شده را پر میکنید .
@@ -45,10 +45,10 @@ screen ./Autolaunch
 
  5. سپس بعد از لانچ شدن ربات api با اکانت cli استارت کنید
  
-▪️Channel: [@phoenixss1_bot](https://telegram.me/RexCompany)
+▪️Channel: [@phoenixss1_bot](https://telegram.me/phoenixss1_bot)
 
-▪️Edited By : [@phoenixss1_bot](https://telegram.me/Rex_Developer)
+▪️Edited By : [@phoenixss1_bot](https://telegram.me/phoenixss1_bot)
 
-▪️Special Thanks From : [@phoenixss1_bot](https://telegram.me/MaTaDoRTeam) & [@phoenixss1_bot](https://telegram.me/CernerCompany)
+▪️Special Thanks From : [@phoenixss1_bot](https://telegram.me/phoenixss1_bot) & [@phoenixss1_bot](https://telegram.me/CernerCompany)
 
 # Good Luck :)
