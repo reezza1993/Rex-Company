@@ -3226,7 +3226,7 @@ if redis:get('Lock:Link'..msg.chat_id) then
 sendText(msg.chat_id, msg.id, '`▪️ قفل لینک غیرفعال شد.`' , 'md')
 redis:del('Lock:Link'..msg.chat_id)
 else
-sendText(msg.chat_id, msg.id, '`▪️ قفل لینک از قبل فعال بود.`' , 'md')
+sendText(msg.chat_id, msg.id, '`▪️ قفل لینک از قبل غیرفعال بود.`' , 'md')
 end
 end
 if matches == 'unlock link' then
@@ -3234,7 +3234,7 @@ if redis:get('Lock:Link'..msg.chat_id) then
 sendText(msg.chat_id, msg.id, '`▪️ Lᴏᴄᴋ Lɪɴᴋ Hᴀs Bᴇᴇɴ Dɪsᴀʙʟᴇ.`' , 'md')
 redis:del('Lock:Link'..msg.chat_id)
 else
-sendText(msg.chat_id, msg.id, '`▪️ Lᴏᴄᴋ Lɪɴᴋ Is AʟRᴇᴀᴅʏ Eɴᴀʙʟᴇᴅ.`' , 'md')
+sendText(msg.chat_id, msg.id, '`▪️ Lᴏᴄᴋ Lɪɴᴋ Is AʟRᴇᴀᴅʏ Dɪsᴀʙʟᴇᴅ.`' , 'md')
 end
 end
 if matches == 'قفل تگ' then
